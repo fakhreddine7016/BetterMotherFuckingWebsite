@@ -1,0 +1,10 @@
+ body {
+  margin : 40px auto;
+  width: 650px;
+  font-size: 18px;
+  padding: 0 10px 0 0;
+}
+em {
+	
+	font-style: italic;
+}
